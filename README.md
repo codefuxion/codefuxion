@@ -53,7 +53,7 @@ The following is a selection of products, ventures, and concepts I have worked o
 | **Strydo Pay** | Fintech | Payment experiences, merchant tools, dashboards, and gateway integration |
 | **ZentraPays** | Digital finance and learning | Digital skills materials and financial-service concepts |
 | **SportsFlowsAI** | Sports technology | Sports content, predictions, subscriptions, user dashboards, and administration |
-| **Website Script Marketplace** | E-commerce | A marketplace concept for browsing, previewing, and purchasing website scripts |\n| **CJ Grand Group / CJ Grand Solutions** | Finance, autos and real estate | Public business website: [cjgrandgroup.com](https://cjgrandgroup.com/) |\n| **CJ Grand Exchange** | Business platform | Portfolio entry; scope and services to be confirmed and documented |
+| **Website Script Marketplace** | E-commerce | A marketplace concept for browsing, previewing, and purchasing website scripts |\n| **CJ Grand Group** | Finance, autos, real estate and CJ Grand Exchange | Group business presence: [cjgrandgroup.com](https://cjgrandgroup.com/) |
 | **AgriPay Global** | Agri-finance concept | Tiered investment-product and portfolio planning |
 
 More context and project status notes are maintained in [PROJECTS.md](PROJECTS.md).
