@@ -1,0 +1,30 @@
+name: Portfolio quality checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Validate required portfolio files
+        run: |
+          test -s index.html
+          test -s styles.css
+          test -s script.js
+          test -s README.md
+          test -s PROJECTS.md
+      - name: Check JavaScript syntax
+        run: node --check script.js
+      - name: Check local asset references
+        run: |
+          test -s assets/banner.svg
+          test -s assets/favicon.svg
