@@ -28,6 +28,8 @@ jobs:
           node --check script.js
           node --check examples/node-api/server.js
           node --check examples/node-api/server.test.js
+          node --check examples/node-api/webhook-verification.js
+          node --check examples/node-api/webhook-verification.test.js
       - name: Run Node API tests
         working-directory: examples/node-api
         run: npm test
