@@ -1,0 +1,19 @@
+name: Portfolio update
+description: Suggest a correction or improvement to the portfolio
+title: "[Portfolio]: "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: change
+    attributes:
+      label: What should be updated?
+      description: Describe the correction or improvement.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting details
+      description: Add public links or context. Do not share secrets or private data.
+    validations:
+      required: false
