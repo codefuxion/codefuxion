@@ -26,13 +26,9 @@ A marketplace concept where customers can discover, preview, compare, and purcha
 **Area:** Agri-finance / investment-product concept  
 A concept explored through tiered portfolio and promotional materials. Any financial product must be supported by transparent terms, legal and regulatory review, risk disclosures, and independently verified performance data before being presented as an active investment offering.
 
-## [CJ Grand Group / CJ Grand Solutions](case-studies/cj-grand-group.md)
-**Area:** Business website · Finance · Automobiles · Real estate  
-The public website at [cjgrandgroup.com](https://cjgrandgroup.com/) presents CJ Grand Solutions across finance, autos and real estate. The case study records the public-facing website scope; my exact delivery role and implementation details should be stated only when verified.
-
-## [CJ Grand Exchange](case-studies/cj-grand-exchange.md)
-**Area:** Business platform  
-A portfolio entry for CJ Grand Exchange. Its product purpose, users and implementation status will be documented as confirmed.
+## [CJ Grand Group](case-studies/cj-grand-group.md)
+**Area:** Group business presence · Finance · Automobiles · Real estate · CJ Grand Exchange  
+The public website at [cjgrandgroup.com](https://cjgrandgroup.com/) presents CJ Grand Solutions across finance, autos and real estate. CJ Grand Exchange is part of the same CJ Grand Group portfolio, not a separate portfolio project. The case study records only the confirmed public-facing scope; my exact delivery role and implementation details should be stated only when verified.
 
 ## Technical implementation themes
 
