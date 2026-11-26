@@ -1,0 +1,25 @@
+name: Website issue
+description: Report a problem with the portfolio website
+title: "[Website issue]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: What happened?
+      description: Describe the issue and expected behavior.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: Firefox on Windows 11
+    validations:
+      required: false
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: false
