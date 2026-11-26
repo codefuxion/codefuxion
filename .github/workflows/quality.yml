@@ -22,8 +22,15 @@ jobs:
           test -s script.js
           test -s README.md
           test -s PROJECTS.md
+          test -s examples/node-api/server.js
       - name: Check JavaScript syntax
-        run: node --check script.js
+        run: |
+          node --check script.js
+          node --check examples/node-api/server.js
+          node --check examples/node-api/server.test.js
+      - name: Run Node API tests
+        working-directory: examples/node-api
+        run: npm test
       - name: Check local asset references
         run: |
           test -s assets/banner.svg
