@@ -9,7 +9,7 @@
 Building practical digital products, secure web applications, fintech experiences, and technology solutions for real-world problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-codefuxion-181717?style=for-the-badge&logo=github)](https://github.com/codefuxion)
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0b9eaa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codefuxion.github.io/codefuxion/)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0b9eaa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codefuxion.github.io/codefuxion/)\n[![Email](https://img.shields.io/badge/Email-Contact-0b9eaa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strydotechnologi@gmail.com)
 
 </div>
 
@@ -54,7 +54,7 @@ The following is a selection of products, ventures, and concepts I have worked o
 | **ZentraPays** | Digital finance and learning | Digital skills materials and financial-service concepts |
 | **SportsFlowsAI** | Sports technology | Sports content, predictions, subscriptions, user dashboards, and administration |
 | **ProjectPidia** | Development infrastructure | Helping communities document priorities and connect with potential development partners |
-| **Website Script Marketplace** | E-commerce | A marketplace concept for browsing, previewing, and purchasing website scripts |
+| **Website Script Marketplace** | E-commerce | A marketplace concept for browsing, previewing, and purchasing website scripts |\n| **CJ Grand Group** | Business group | Portfolio entry; scope and services to be confirmed and documented |\n| **CJ Grand Exchange** | Business platform | Portfolio entry; scope and services to be confirmed and documented |
 | **AgriPay Global** | Agri-finance concept | Tiered investment-product and portfolio planning |
 | **Tranzio Credit Union** | Financial technology | Digital credit-union website and member experience concepts |
 
@@ -87,7 +87,7 @@ The repository includes a responsive static portfolio built with HTML, CSS and v
 
 I welcome thoughtful conversations about full-stack development, fintech integrations, cybersecurity, AI-enabled products, product architecture, MVP planning, and technical collaboration.
 
-[Explore my repositories](https://github.com/codefuxion?tab=repositories) · [Connect on GitHub](https://github.com/codefuxion)
+[Explore my repositories](https://github.com/codefuxion?tab=repositories) · [Connect on GitHub](https://github.com/codefuxion) · [Email: strydotechnologi@gmail.com](mailto:strydotechnologi@gmail.com)
 
 ---
 
