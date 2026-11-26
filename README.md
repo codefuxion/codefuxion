@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="Code Fuxion — Build with purpose" width="100%">
+
 # Code Fuxion
 
 ### Full-Stack Developer · Cybersecurity Practitioner · AI Coach · Technology Entrepreneur
@@ -7,7 +9,7 @@
 Building practical digital products, secure web applications, fintech experiences, and technology solutions for real-world problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-codefuxion-181717?style=for-the-badge&logo=github)](https://github.com/codefuxion)
-[![Profile](https://img.shields.io/badge/Portfolio-Open%20Source-0A66C2?style=for-the-badge)](https://github.com/codefuxion?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0b9eaa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codefuxion.github.io/codefuxion/)
 
 </div>
 
@@ -68,6 +70,10 @@ More context and project status notes are maintained in [PROJECTS.md](PROJECTS.m
 - Exploring practical AI applications and automation.
 - Documenting architecture, installation, configuration, and operational procedures.
 
+## Portfolio website
+
+The repository includes a responsive static portfolio built with HTML, CSS and vanilla JavaScript. See [README-WEBSITE.md](README-WEBSITE.md) for local preview and GitHub Pages deployment instructions.
+
 ## How I approach projects
 
 1. Understand the problem, users, and business requirements.
@@ -77,21 +83,11 @@ More context and project status notes are maintained in [PROJECTS.md](PROJECTS.m
 5. Document setup, configuration, and maintenance.
 6. Test, deploy, monitor, and improve based on feedback.
 
-## Current direction
-
-I am focused on strengthening my public engineering portfolio, documenting real project work, improving secure full-stack delivery, and collaborating with people building useful technology products.
-
 ## Collaboration
 
-I welcome thoughtful conversations about:
+I welcome thoughtful conversations about full-stack development, fintech integrations, cybersecurity, AI-enabled products, product architecture, MVP planning, and technical collaboration.
 
-- Full-stack web application development.
-- Fintech and payment integrations.
-- Cybersecurity and secure-by-design engineering.
-- AI-enabled products and practical technology education.
-- Product architecture, MVP planning, and technical collaboration.
-
-The best way to start a conversation is through [GitHub](https://github.com/codefuxion).
+[Explore my repositories](https://github.com/codefuxion?tab=repositories) · [Connect on GitHub](https://github.com/codefuxion)
 
 ---
 
