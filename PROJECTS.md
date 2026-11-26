@@ -2,27 +2,27 @@
 
 This document summarizes products, ventures, and concepts associated with my technology work. It distinguishes product direction from verified implementation so readers can understand the portfolio without assuming every idea is production-ready.
 
-## Strydo Technology
+## [Strydo Technology](case-studies/strydo-technology.md)
 **Area:** Software development and digital services  
 A technology business direction covering website development, business platforms, digital promotion, and custom web solutions. Service areas explored include banking, real estate, booking, lending, crypto-related interfaces, trading dashboards, SEO, and business automation.
 
-## Strydo Pay
+## [Strydo Pay](case-studies/strydo-pay.md)
 **Area:** Fintech and payment experiences  
 A payment-platform concept centered on merchant and customer dashboards, inline payment experiences, multiple currencies, and gateway integrations such as Flutterwave and Paystack. Key engineering considerations include payment verification, idempotency, webhook validation, transaction reconciliation, and secure administrative controls.
 
-## ZentraPays
+## [ZentraPays](case-studies/zentrapays.md)
 **Area:** Digital finance and learning  
 A digital platform direction combining digital course materials, skills education, and financial-service concepts. Product work has included course packaging, affiliate-related ideas, and payment/merchant workflows.
 
-## SportsFlowsAI
+## [SportsFlowsAI](case-studies/sportsflowsai.md)
 **Area:** Sports technology  
 A sports platform concept involving user accounts, subscription plans, sports content, predictions, administrative publishing, result updates, and payment/withdrawal workflows. Important engineering themes include transparent status tracking, audit logs, responsible presentation of predictions, and reliable sports-data integrations.
 
-## ProjectPidia
+## [ProjectPidia](case-studies/projectpidia.md)
 **Area:** Development opportunity infrastructure  
 An emerging venture focused on enabling communities to identify, document, validate, and structure development priorities, then connect those priorities with potential funders, development partners, institutions, and resource providers. Product priorities include clear workflows, data quality, accountability, and partner collaboration.
 
-## Website Script Marketplace
+## [Website Script Marketplace](case-studies/website-script-marketplace.md)
 **Area:** Digital commerce  
 A marketplace concept where customers can discover, preview, compare, and purchase website scripts. Potential capabilities include product listings, live previews, cart and checkout, payment integration, order history, and administrator-managed inventory.
 
