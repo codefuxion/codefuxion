@@ -30,6 +30,10 @@ A concept explored through tiered portfolio and promotional materials. Any finan
 **Area:** Group business presence · Finance · Automobiles · Real estate · CJ Grand Exchange  
 The public website at [cjgrandgroup.com](https://cjgrandgroup.com/) presents CJ Grand Solutions across finance, autos and real estate. CJ Grand Exchange is part of the same CJ Grand Group portfolio, not a separate portfolio project. The case study records only the confirmed public-facing scope; my exact delivery role and implementation details should be stated only when verified.
 
+## Technical demonstrations
+
+Runnable examples and focused security patterns are maintained in [`examples/`](examples/README.md), including a Node.js HTTP API, webhook signature verification, PHP prepared queries, password handling, session hardening and CSRF protection.
+
 ## Technical implementation themes
 
 Across these product explorations, recurring engineering topics include:
