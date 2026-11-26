@@ -53,10 +53,8 @@ The following is a selection of products, ventures, and concepts I have worked o
 | **Strydo Pay** | Fintech | Payment experiences, merchant tools, dashboards, and gateway integration |
 | **ZentraPays** | Digital finance and learning | Digital skills materials and financial-service concepts |
 | **SportsFlowsAI** | Sports technology | Sports content, predictions, subscriptions, user dashboards, and administration |
-| **ProjectPidia** | Development infrastructure | Helping communities document priorities and connect with potential development partners |
 | **Website Script Marketplace** | E-commerce | A marketplace concept for browsing, previewing, and purchasing website scripts |\n| **CJ Grand Group** | Business group | Portfolio entry; scope and services to be confirmed and documented |\n| **CJ Grand Exchange** | Business platform | Portfolio entry; scope and services to be confirmed and documented |
 | **AgriPay Global** | Agri-finance concept | Tiered investment-product and portfolio planning |
-| **Tranzio Credit Union** | Financial technology | Digital credit-union website and member experience concepts |
 
 More context and project status notes are maintained in [PROJECTS.md](PROJECTS.md).
 
