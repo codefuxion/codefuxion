@@ -18,10 +18,6 @@ A digital platform direction combining digital course materials, skills educatio
 **Area:** Sports technology  
 A sports platform concept involving user accounts, subscription plans, sports content, predictions, administrative publishing, result updates, and payment/withdrawal workflows. Important engineering themes include transparent status tracking, audit logs, responsible presentation of predictions, and reliable sports-data integrations.
 
-## [ProjectPidia](case-studies/projectpidia.md)
-**Area:** Development opportunity infrastructure  
-An emerging venture focused on enabling communities to identify, document, validate, and structure development priorities, then connect those priorities with potential funders, development partners, institutions, and resource providers. Product priorities include clear workflows, data quality, accountability, and partner collaboration.
-
 ## [Website Script Marketplace](case-studies/website-script-marketplace.md)
 **Area:** Digital commerce  
 A marketplace concept where customers can discover, preview, compare, and purchase website scripts. Potential capabilities include product listings, live previews, cart and checkout, payment integration, order history, and administrator-managed inventory.
@@ -30,9 +26,13 @@ A marketplace concept where customers can discover, preview, compare, and purcha
 **Area:** Agri-finance / investment-product concept  
 A concept explored through tiered portfolio and promotional materials. Any financial product must be supported by transparent terms, legal and regulatory review, risk disclosures, and independently verified performance data before being presented as an active investment offering.
 
-## Tranzio Credit Union
-**Area:** Financial technology  
-A digital credit-union website and member-experience project direction, including account and service information and administrative content management.
+## [CJ Grand Group](case-studies/cj-grand-group.md)
+**Area:** Business group  
+A portfolio entry for CJ Grand Group. Its business units, services and operating scope will be documented as confirmed.
+
+## [CJ Grand Exchange](case-studies/cj-grand-exchange.md)
+**Area:** Business platform  
+A portfolio entry for CJ Grand Exchange. Its product purpose, users and implementation status will be documented as confirmed.
 
 ## Technical implementation themes
 
