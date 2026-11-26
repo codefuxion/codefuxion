@@ -1,0 +1,25 @@
+name: Feature or improvement request
+description: Suggest a useful improvement to the portfolio or example projects
+title: "[Enhancement]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Explain the need or user impact.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested solution
+      description: Describe the improvement you have in mind.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+    validations:
+      required: false
