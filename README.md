@@ -53,10 +53,21 @@ The following is a selection of products, ventures, and concepts I have worked o
 | **Strydo Pay** | Fintech | Payment experiences, merchant tools, dashboards, and gateway integration |
 | **ZentraPays** | Digital finance and learning | Digital skills materials and financial-service concepts |
 | **SportsFlowsAI** | Sports technology | Sports content, predictions, subscriptions, user dashboards, and administration |
-| **Website Script Marketplace** | E-commerce | A marketplace concept for browsing, previewing, and purchasing website scripts |\n| **CJ Grand Group** | Finance, autos, real estate and CJ Grand Exchange | Group business presence: [cjgrandgroup.com](https://cjgrandgroup.com/) |
+| **Website Script Marketplace** | E-commerce | A marketplace concept for browsing, previewing, and purchasing website scripts |
+| **CJ Grand Group** | Finance, autos, real estate and CJ Grand Exchange | Group business presence: [cjgrandgroup.com](https://cjgrandgroup.com/) |
 | **AgriPay Global** | Agri-finance concept | Tiered investment-product and portfolio planning |
 
-More context and project status notes are maintained in [PROJECTS.md](PROJECTS.md).
+More context and project status notes are maintained in [PROJECTS.md](PROJECTS.md). Read the [professional profile](CAREER-PROFILE.md) for a concise overview and the [case-study template](case-studies/CASE-STUDY-TEMPLATE.md) for how project work is documented.
+
+## Engineering lab
+
+Runnable and reviewable examples are available in [`examples/`](examples/README.md):
+
+- Node.js HTTP API with automated tests.
+- HMAC webhook signature verification pattern with timestamp checks.
+- PHP PDO prepared queries, password hashing, session hardening and CSRF helpers.
+
+These are focused demonstrations, not drop-in production systems. Read each example before adapting it.
 
 ## Engineering interests
 
@@ -67,6 +78,10 @@ More context and project status notes are maintained in [PROJECTS.md](PROJECTS.m
 - Debugging production issues across PHP, Node.js, databases, and hosting environments.
 - Exploring practical AI applications and automation.
 - Documenting architecture, installation, configuration, and operational procedures.
+
+## Security and quality
+
+I document secure development practices in [SECURITY.md](SECURITY.md), [CYBERSECURITY.md](CYBERSECURITY.md), and the practical [application security checklist](SECURITY-CHECKLIST.md). The repository runs automated checks for JavaScript syntax, Node.js tests and required portfolio assets.
 
 ## Portfolio website
 
